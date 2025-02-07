@@ -2,6 +2,10 @@
 # jbg-ipro-file-etl
 Extract Files from J.B Gottstein iPro portal in bulk to your hard drive automatically
 
+**Video Demo**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wgAUTUw4oU/0.jpg)](https://www.youtube.com/watch?v=1wgAUTUw4oU)
+
+
 **Requirements:** 
 You will need Firefox installed on Windows to proceed.  
 
@@ -9,7 +13,6 @@ You will need Firefox installed on Windows to proceed.
 This program uses and stores your iPro password in plain-text, please only use on trusted computers. This can be changed but is currently not a feature
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wgAUTUw4oU/0.jpg)](https://www.youtube.com/watch?v=1wgAUTUw4oU)
 
 **Configuration:**
 If you have python you can run the code directly, otherwise download the exe file
