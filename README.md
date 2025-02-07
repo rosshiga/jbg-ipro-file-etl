@@ -8,6 +8,9 @@ You will need Firefox installed on Windows to proceed.
 **Warning:**
 This program uses and stores your iPro password in plain-text, please only use on trusted computers. This can be changed but is currently not a feature
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wgAUTUw4oU/0.jpg)](https://www.youtube.com/watch?v=1wgAUTUw4oU)
+
 **Configuration:**
 If you have python you can run the code directly, otherwise download the exe file
 
