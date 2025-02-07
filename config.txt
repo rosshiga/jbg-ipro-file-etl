@@ -1,0 +1,4 @@
+USERNAME=ross@logmein.com
+PASSWORD=password to ipro
+DESTINATION_DIRECTORY=G:\final_destination_of_files
+DOWNLOAD_DIRECTORY=C:\Users\Ross\Downloads
