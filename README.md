@@ -3,7 +3,7 @@
 Extract Files from J.B Gottstein iPro portal in bulk to your hard drive automatically
 
 **Requirements:** 
-You will need Firefox installed on Windows to proceed.  Download
+You will need Firefox installed on Windows to proceed.  
 
 **Warning:**
 This program uses and stores your iPro password in plain-text, please only use on trusted computers. This can be changed but is currently not a feature
