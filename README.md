@@ -4,7 +4,7 @@ Extract Files from J.B Gottstein iPro portal in bulk to your hard drive automati
 
 **Video Demo**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wgAUTUw4oU/0.jpg)](https://www.youtube.com/watch?v=1wgAUTUw4oU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1wgAUTUw4oU/0.jpg)](https://www.youtube.com/watch?v=FE_zuzsqJwI)
 
 
 **Requirements:** 
